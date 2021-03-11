@@ -1,0 +1,9 @@
+F:\Programming\Git\Galytix\CountryGwp\bin\Debug\netcoreapp3.1\CountryGwp.deps.json
+F:\Programming\Git\Galytix\CountryGwp\bin\Debug\netcoreapp3.1\CountryGwp.dll
+F:\Programming\Git\Galytix\CountryGwp\bin\Debug\netcoreapp3.1\CountryGwp.pdb
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.AssemblyInfoInputs.cache
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.AssemblyInfo.cs
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.csproj.CoreCompileInputs.cache
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.dll
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.pdb
+F:\Programming\Git\Galytix\CountryGwp\obj\Debug\netcoreapp3.1\CountryGwp.csprojAssemblyReference.cache
